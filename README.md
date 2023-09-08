@@ -8,6 +8,7 @@ Most of its parameters are definable variables so you can customize its appearan
 **Constructor:**
 LiveGraph (float x, float y, float windowWidth, float windowHeight, PApplet window, int numOfChannels)
 
+
 **Functions:**
 void setAxisProperties(float tMax, float yMin, float yMax, float timeIncrement, String yUnit)
 void setGraphProperties(color backgroundColor, color lineColor, float lineThickness)
