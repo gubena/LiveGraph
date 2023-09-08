@@ -10,12 +10,12 @@ Most of its parameters are definable variables so you can customize its appearan
 
 
 **Functions:**
-  void setAxisProperties(float tMax, float yMin, float yMax, float timeIncrement, String yUnit)
-  void setGraphProperties(color backgroundColor, color lineColor, float lineThickness)
-  void setGridProperties(float tGridIncrement, float yGridIncrement, color gridColor)
-  void setTextProperties(float textSize, int decimalPlaces, String title, float titleSize, String[] channelNames, color textColor)
-  void addPoint(float num)
-  void addPoint(float[] nums)
-  void resetData()
-  void export(String tableName)
-  void display()
+/n void setAxisProperties(float tMax, float yMin, float yMax, float timeIncrement, String yUnit)
+/n void setGraphProperties(color backgroundColor, color lineColor, float lineThickness)
+/n void setGridProperties(float tGridIncrement, float yGridIncrement, color gridColor)
+/n void setTextProperties(float textSize, int decimalPlaces, String title, float titleSize, String[] channelNames, color textColor)
+/n void addPoint(float num)
+/n void addPoint(float[] nums)
+/n void resetData()
+/n void export(String tableName)
+/n void display()
