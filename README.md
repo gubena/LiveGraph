@@ -2,6 +2,9 @@
 LiveGraph is a Processing class that displays in real-time a dynamic graph that allows receiving an indefinite amount of data.
 This is because when the amount of data becomes longer than the window, the graph will shift to always show the most recent values.
 It also allows you to show several curves simultaneously, in which they all share the X-axis (time).
+<p align="center">
+  <img src="https://github.com/gubena/LiveGraph/blob/main/images/image_2023-09-08_112540403.png" />
+</p>
 
 Most of its parameters are definable variables so you can customize its appearance and behavior to suit different applications.
 
@@ -19,3 +22,7 @@ Most of its parameters are definable variables so you can customize its appearan
 <br /> void resetData()
 <br /> void export(String tableName)
 <br /> void display()
+
+<p align="center">
+  <img src="https://github.com/gubena/LiveGraph/blob/main/images/image_2023-09-08_112611164.png" />
+</p>
