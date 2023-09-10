@@ -9,7 +9,7 @@ It also allows you to show several curves simultaneously, in which they all shar
 Most of its parameters are definable variables so you can customize its appearance and behavior to suit different applications.
 
 **Constructor:**
-- _LiveGraph (float x, float y, float windowWidth, float windowHeight, PApplet window, int numOfChannels)_
+- _LiveGraph(float x, float y, float windowWidth, float windowHeight, PApplet window, int numOfChannels)_
 
 
 **Functions:**
